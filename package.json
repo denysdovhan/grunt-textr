@@ -1,6 +1,6 @@
 {
   "name": "grunt-textr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Grunt plugin for Textr",
   "homepage": "https://github.com/denysdovhan/grunt-textr",
   "repository": "https://github.com/denysdovhan/grunt-textr",
