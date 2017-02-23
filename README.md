@@ -1,5 +1,7 @@
 # grunt-textr [![Build Status][travis-bange]][travis-status]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/denysdovhan/grunt-textr.svg)](https://greenkeeper.io/)
+
 > Grunt plugin for [Textr][textr] — framework for compose text transformation functions
 
 ## Install
